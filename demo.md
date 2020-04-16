@@ -1,6 +1,6 @@
 ---
 title: Hello, World!
-layout: jsx
+layout: myjsx
 ---
 
-<p>This is an example of how to use <strong>JSX</strong> with <a href="https://www.11ty.dev">Eleventy</a>.</p>
+This is an example of how to use **JSX** with [Eleventy](https://www.11ty.dev).
