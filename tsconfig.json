@@ -1,0 +1,14 @@
+{
+  "compilerOptions": {
+    "module": "commonjs",
+    "target": "ES2019",
+    "lib": ["ES2019"],
+    "noImplicitAny": true,
+    "sourceMap": false,
+    "moduleResolution": "node",
+    "strictNullChecks": true,
+    "noUnusedLocals": false,
+    "jsx": "react"
+  },
+  "exclude": ["node_modules"]
+}
