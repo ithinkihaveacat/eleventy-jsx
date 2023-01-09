@@ -10,7 +10,7 @@
   "license": "Apache-2.0",
   "homepage": "https://gist.github.com/34ca32707af6e83965d205579be065fa",
   "devDependencies": {
-    "@11ty/eleventy": "^0.10.0",
+    "@11ty/eleventy": "^1.0.2",
     "@types/node": "^13.11.1",
     "vhtml": "^2.2.0"
   },
